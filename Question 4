@@ -1,0 +1,67 @@
+<DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Technology List</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 40px;
+            background-color: #f4f4f4;
+        }
+        h1 {
+            color: #333;
+        }
+        ul {
+            margin-bottom: 20px;
+        }
+        li {
+            margin-bottom: 5px;
+        }
+        ol {
+            list-style-type: lower-alpha;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Technology List</h1>
+
+    <ul>
+        <li>
+            <lite>Programming Language</lite>
+            <ul>
+                <li>JavaScript
+                    <ol>
+                        <li>Angular</li>
+                        <li>React</li>
+                        <li>Vue.js</li>
+                    </ol>
+                </li>
+                <li>Python
+                    <ol>
+                        <li>Django Framework</li>
+                        <li>Flask Framework</li>
+                    </ol>
+                </li>
+                <li>Java
+                    <ol>
+                        <li>Spring</li>
+                        <li>Maven</li>
+                        <li>Hibernate</li>
+                    </ol>
+                </li>
+            </ul>
+        </li>
+<li>
+ <lite>Database</lite>
+            <ol>
+                <li>MySQL</li>
+                <li>MongoDB</li>
+                <li>Cassandra</li> 
+            </ol>
+        </li>
+    </ul>
+
+</body>
+</html>
